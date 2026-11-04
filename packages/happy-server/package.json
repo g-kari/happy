@@ -69,9 +69,9 @@
     "tmp": "^0.2.3",
     "tsx": "^4.19.2",
     "tweetnacl": "^1.0.3",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.2.0",
+    "vitest": "^4.1.8",
     "zod": "3.25.76",
     "zod-to-json-schema": "^3.24.3"
   }
