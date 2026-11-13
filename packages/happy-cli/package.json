@@ -90,7 +90,7 @@
   "dependencies": {
     "@agentclientprotocol/sdk": "^0.14.1",
     "@anthropic-ai/sandbox-runtime": "^0.0.37",
-    "@modelcontextprotocol/sdk": "^1.25.3",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@paralleldrive/cuid2": "^2.2.2",
     "@slopus/happy-wire": "^0.1.0",
     "@stablelib/base64": "^2.0.1",
@@ -102,7 +102,7 @@
     "@types/react": "^19.2.7",
     "@types/tmp": "^0.2.6",
     "ai": "^5.0.107",
-    "axios": "^1.13.2",
+    "axios": "^1.20.0",
     "chalk": "^5.6.2",
     "cross-spawn": "^7.0.6",
     "expo-server-sdk": "^3.15.0",
@@ -117,7 +117,7 @@
     "qrcode-terminal": "^0.12.0",
     "react": "^19.2.0",
     "socket.io-client": "^4.8.1",
-    "tar": "^7.5.2",
+    "tar": "^7.5.23",
     "tmp": "^0.2.5",
     "tweetnacl": "^1.0.3",
     "zod": "3.25.76"
